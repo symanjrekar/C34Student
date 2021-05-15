@@ -1,4 +1,2 @@
 Output Link:
-https://deepali-m.github.io/physics-engine-stage-2-final-/index.html
-
-https://deepali-m.github.io/physics-engine-stage-2-final-/
+https://github.com/symanjrekar/C34Student/blob/master/index.html
