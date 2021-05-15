@@ -1,2 +1,2 @@
 Output Link:
-https://github.com/symanjrekar/C34Student/blob/master/index.html
+https://symanjrekar.github.io/C34Student/
